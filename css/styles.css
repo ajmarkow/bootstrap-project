@@ -1,0 +1,9 @@
+.sidebar {
+  float: left;
+  background-color: lightgray;
+}
+
+img.main {
+  float: right;
+  padding: 10px;
+}
