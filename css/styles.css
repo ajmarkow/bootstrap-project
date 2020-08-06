@@ -25,3 +25,7 @@ img.main {
   height: auto;
   display: block;
 }
+#specialtitle{
+  font-weight:bold;
+  text-decoration:underline;
+}
